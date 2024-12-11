@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("Привет тебе, дитя. Назови своё имя?");
 string userName = Console.ReadLine();
 
-Console.WriteLine("Каков свой возраст?");
+Console.WriteLine("Каков твой возраст?");
 int userAge = int.Parse(Console.ReadLine());
 int requiredAge = 18;
 
